@@ -1,6 +1,6 @@
 # A new way to work coming soon...
 
-![SW Logo](/docs/assets/Logo_4.png)
+![SW Logo](/docs/assets/images/Logo_4.png)
 
 <form
   action="https://formspree.io/f/xbjqedrr"
