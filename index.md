@@ -1,5 +1,7 @@
 # A new way to work coming soon...
 
+![SW Logo](/docs/assets/Logo_4.png)
+
 <form
   action="https://formspree.io/f/xbjqedrr"
   method="POST"
