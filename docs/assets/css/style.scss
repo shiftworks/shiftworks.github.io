@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.page-header {
-   color: #ffff;
-   background-color: #109000;
+.header_wrap {
+   background: #109000;
+   background: -moz-linear-gradient(top, #109000, #021300);
 }
