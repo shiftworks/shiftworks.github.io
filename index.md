@@ -1,6 +1,6 @@
-# Testing6
+# Testing7
 
-![SW Logo](/docs/assets/images/Logo_4.png)
+![SW Logo](/assets/images/Logo_4.png)
 
 <form
   id="fs-frm"
